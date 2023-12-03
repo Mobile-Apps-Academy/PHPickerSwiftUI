@@ -60,7 +60,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://www.youtube.com/playlist?list=PLFo6MW4q69PxuLT9bc5furp4GvDnIM-iR)
 
-A morphing effect when a shape is draged from its position, Developed using SwiftUI.
+A PHPicker, Developed using SwiftUI.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
